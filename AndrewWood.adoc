@@ -1,0 +1,31 @@
+= Andrew Wood
+Andrew Wood <andrew.d.wood@gmail.com>, https://github.com/4n3w/resume
+v1.6, 2016-06-08: Resume Updated for June 2016
+:title: Andrew Wood's Resume 
+:doctype: article
+:icons: font
+:source-highlighter: coderay 
+:listing-caption: Listing
+:pdf-page-size: Letter
+
+include::SoftwareCraftsman.adoc[]
+
+'''
+
+include::Skills.adoc[]
+
+'''
+
+include::Experience.adoc[]
+
+'''
+
+include::Training.adoc[]
+
+'''
+
+include::Extracurricular.adoc[]
+
+'''
+
+include::Footer.adoc[]

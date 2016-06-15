@@ -1,0 +1,9 @@
+== Andrew Wood
+
+https://github.com/4n3w/resume[Github: icon:github[]] mailto:andrew.d.wood@gmail.com[Email: icon:envelope[]] http://stackoverflow.com/users/955526/anew[Stack Overflow: icon:stack-overflow[]] https://www.linkedin.com/in/andrew-wood-7a2ab211[LinkedIn: icon:linkedin[]]
+
+.icon:wrench[] *_Software Craftsman_* 
+
+Mission-focused and quality-driven professional with extensive experience in software development, testing and architecture, with demonstrative consistency of delivery within timelines and surpassing business objectives. Seeking a primary role in a forward-thinking and growing software development organization with a creative culture. 
+
+

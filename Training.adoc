@@ -1,0 +1,10 @@
+
+.icon:certificate[] *_Training_*
+ * Elastic Search Training - Toronto, ON - 2015
+ * Puppet Labs Puppet Training - Toronto, ON - 2012
+ * ExitCertified - Spring Core Training - Montreal, QC - 2010
+ * Zend PHP Certified Engineer - Toronto, ON - 2005
+ * Xenos d2e Document Transformation Certification - Richmond Hill, ON - 2002
+ * Sun Java Certified Programmer - Toronto, ON - 2001
+ * IBM Java Lifecycle Training - Markham, ON - 2001
+

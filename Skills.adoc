@@ -1,0 +1,7 @@
+icon:check[] *_Skills_*
+
+[format="dsv"]
+|===
+include::KeyTechnologies.dsv[]
+|===
+

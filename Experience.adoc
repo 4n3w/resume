@@ -1,0 +1,72 @@
+
+icon:industry[] *_Professional Experience_*
+
+*Exchange Solutions Inc.*
+_June 2014 - Present; Toronto, Ontario_
+
+_Software Architect_
+
+Software Architect, reporting directly to Director of Development and VP of Technology. Manager of four Developers and one Architect. Responsible for defining coding standards, research and development and was instrumental in initiating a Continuous Delivery effort across the technology team.
+
+._Achievements_
+* Implemented multiple systems utilizing Apache Camel, RabbitMQ and numerous Enterprise Integration Patterns for two major clients.
+* Responsible for maintaining coding standards across the development team, enforcing testability and design of asynchronous systems.
+* Facilitated a production machine learning exercise to decouple an optimization component from an offer management service
+* Implemented Hazelcast caching to solve broader problems of session state for a large integration system
+* Authored proposal for a Continuous Delivery concept and built proof-of-concept with two other architects in a four-day "innovation vacation"
+* Instrumental in gathering grass-roots support for changing the corporate culture (on-prem vs cloud, siloed teams vs one comprehensive team, information sharing vs information exclusivity )
+
+*Factor[e] Design Initiative*
+_September 2013 - June 2014; Hamilton, Ontario_
+
+_Senior Software Developer / DevOps_
+
+Senior Developer, reported directly to CTO. Instrumental in migrating 180+ websites from legacy platform to Digital Ocean (cloud provider). Wrote custom tooling for migrating applications from legacy host; utilizing fail-fast patterns (written in Bash as it seemed most idiomatic), temporary sshfs mounts and Capistrano.
+
+._Achievements_
+* Implemented chef-server and ~200 chef-clients with a centralized chef-repo. Performance tuned chef- server. Mentored junior developer, able to roll-out infrastructure changes to all nodes in seconds.
+* Responsible for developing multiple Rails sites for clients. Ruby, coffeescript, Rails, Bash and chef were core technologies.
+
+*Afilias Canada Corporation*
+_October 2009 - September 2013; Toronto, Ontario_
+
+_Software Developer, Registry Services_
+
+Senior Developer for a Scrum team of five, worked directly with Senior Architect. Contributed to design and architecture of product redesign. Lead developer for a PHP/REST interface to manage DNS for DNS resellers. Redesigned client-facing Java SDK for interacting with REST API. Responsible for various bug fixes in legacy products written in Java, PHP, Perl and Bash. Introduced automation and continuous integration to software build cycles, smoke tests and release management.
+
+._Achievements_
+* Involved in the design and implementation of a back-end conversion from synchronous to asynchronous operation of provisioning utilizing Spring Integration/AMQP with RabbitMQ as a messaging broker. Increased reliability, reporting and reduced provisioning time significantly as compared to legacy system.
+* Designed and implemented a Maven plug-in that automated the tracking of released software
+versions in a machine written XML structure within SVN that introspectively resolved POM file SNAPSHOT releases to concrete tracked versions. Completely eliminated existing versioning problems in the DNS Registry rewrite project and reduced build-to-QA schedule by a business day.
+* Scrum Developer for the Managed DNS Service product, key player in implementing a Scrum agile development methodology to save a derailed project from out-of-scope requirements backlog. Key player in implementing daily Scrum meetings, backlog review, sprint planning and review sessions while keeping progressing work visible in a communal burn-down chart. Worked closely with QA, Operations and Database Operations teams to implement iterative development in two week sprints. Tremendously effective in bringing confidence and transparency to management and project stakeholders on project status and delivering features as-promised, on-time and completely tested.
+* Abstracted configuration entities in legacy DNS Registry system to exist in a standardized fashion to ease ad-hoc production operational changes without having to sacrifice downtime.
+
+*Symcor Inc.*
+_August 2000 - May 2009; Mississauga, Ontario_
+
+_Software Developer, Core Statement Solutions_
+
+Project development lead for multiple PHP and Java projects. Designed and maintained an open source Java build environment utilizing Maven, Artifactory, SVN and Eclipse that supported a team of approximately 10 developers, 20 active projects and hundreds of daily code commits. Facilitated daily automated builds, and automated daily report generation for management. Responsible for designing, developing and maintaining software applications across multiple facets of the company, including development, marketing and production. Provided maintenance and backup scripts for Linux, Solaris and Windows environments and migrated existing source code from many projects to CVS from VSS.
+
+._Achievements_
+* Designed and implemented a Job and Quality Control application in Java/Wicket that acted as a centralized workflow application to control the bulk loading of digital financial documents, reducing the number of production loading errors by approximately 25%.
+* Setup and supported approximately 50 Linux and Solaris machines across five environments and maintained gated procedures for sequential code promotion, reducing the number of customer acceptance testing and production errors.
+* Implemented a GBean for internal billing system that leveraged jCIFS and Quartz scheduler to build reports, PDF documents and automatically integrate reconciliation reports into a legacy Windows NT tier, removing the need for manual reconciliation and report extraction.
+* Initiated proof of concept indexing solution using MySQL that implemented a dynamic indexing scheme so that actors are able to add indexes on-the-fly, without the need to change the schema. Reduced both load and access development implementations by an order of magnitude.
+* Built a proof of concept Native XML Database storage solution, which illustrated the inherent benefits of storing native XML documents and implemented the requisite search, storage and indexing functionalities. Reduced overall storage quota by 90% by eliminating all repeated data.
+* Designed and implemented a standardized Java software platform that served documents via a common XML-RPC webservice interface for multiple financial institutions that reduced external development time. This concentrated support knowledge and costs by phasing out legacy applications.
+* Developed a custom PHP application for RBC Visa’s in-house call centre, supporting hundreds of Customer Service Representatives, (some of them visually impaired) that reduced the average time on service calls by minutes.
+* Assisted in building a custom modularized Content Management System in PHP, responsible for the electronic targeting and delivery of marketing messages to end users, which proved to be a very popular software product with the sales team.
+* Developed Postscript parsing program to insert “tray pulling” logic to facilitate production requirements for coloured coversheets to reduce production sorting time and errors.
+
+*Optus Ebusiness Solutions*
+_August 2000 - January 2001; Toronto, Ontario_
+
+_Software Developer and Network Support_
+
+Reported directly to VP of development, responsible for delivering software applications for a quickly growing software company. Maintenance, installation, configuration and troubleshooting of 10 Linux servers. Supported hosted applications in an on-call manner.
+
+._Achievements_
+* Developed CSR web application software that provided a robust interface for users to search and retrieve financial statements in an instantaneous manner under very aggressive project timelines.
+* Implemented security and encryption standards to meet and exceed industry standards for numerous financial institution clients.
+
