@@ -4,5 +4,5 @@ Rails, SpringMVC, AngularJS, Wicket : JUnit, RSpec, Easymock : JMeter, Robot, Cu
 jQuery, CoffeeScript, CSS, SCSS/SASS, Node : Jaxb, Jackson, Json, XML, Haml : Postgresql, MySQL, BDB, CDB
 git, hg, svn, cvs : Jenkins, Bamboo, Drone, Travis : Tomcat, Jetty, Glassfish
 nginx, lighttpd, http : Capistrano, passenger, git-deployment : Docker, Vagrant, VirtualBox
-Ansible, Chef, Puppet : Mesos, DC/OS, Spring Cloud : Ribbon, Feign, Eureka 
+Ansible, Chef, Puppet : Kubernetes, Mesos, DC/OS, Spring Cloud : Ribbon, Feign, Eureka 
 
