@@ -1,6 +1,6 @@
 = Andrew Wood
-Andrew Wood <andrew.d.wood@gmail.com>, https://github.com/4n3w/resume
-v1.7, 2017-10-11: Resume Updated for Oct 2017
+andrew.d.wood@gmail.com, https://github.com/4n3w/resume
+v1.8, 2018-02-21: Resume Updated for Feb 2018
 :title: Andrew Wood's Resume 
 :doctype: article
 :icons: font
