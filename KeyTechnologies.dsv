@@ -1,8 +1,10 @@
-Linux (CentOS, Ubuntu, CoreOS), MacOSX, OpenBSD : Java, Ruby, Bash, Groovy, Erlang, Javascript : IntelliJ IDEA, Vim, Sublime, Eclipse
+Linux (CentOS, Ubuntu, CoreOS), MacOSX, OpenBSD : Java, Ruby, Bash, Groovy, Golang, Javascript : IntelliJ IDEA, Vim, Sublime, VSCode
 Maven, Gradle, Ant, make, cmake : Spring, Spring Boot, Spring Integration, Apache Camel : RabbitMQ, Hazelcast, Kafka
-Rails, SpringMVC, AngularJS, Wicket : JUnit, RSpec, Easymock : JMeter, Robot, Cucumber
+Rails, SpringMVC, AngularJS, Wicket : JUnit, RSpec, Easymock : JMeter, k6.io, Cucumber
 jQuery, CoffeeScript, CSS, SCSS/SASS, Node : Jaxb, Jackson, Json, XML, Haml : Postgresql, MySQL, BDB, CDB
-git, hg, svn, cvs : Jenkins, Bamboo, Drone, Travis : Tomcat, Jetty, Glassfish
-nginx, lighttpd, http : Capistrano, passenger, git-deployment : Docker, Vagrant, VirtualBox
-Ansible, Chef, Puppet : Kubernetes, Mesos, DC/OS, Spring Cloud : Ribbon, Feign, Eureka 
+git, hg, svn, cvs : concourse, Jenkins, Flux : Tomcat, Jetty, Glassfish
+nginx, lighttpd, http : Capistrano, passenger, git-deployment : Docker, docker-compose, kind
+Ansible, Chef : Kubernetes, Cloud Foundry, Spring Cloud : Ribbon, Feign, Eureka
+Vault, credhub, OpenSSL : platform-automation, ytt, kapp : terraform, pulumi, crossplane
+AWS, Azure, GCP, vSphere : TKG, Rancher, ESXi : Helm, BOSH, Argo
 

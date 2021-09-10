@@ -1,7 +1,7 @@
 .icon:flask[] *_Extracurricular, Hobbies and Interests_*
  * Photography https://www.flickr.com/photos/96568629@N08/[Flickr: icon:flickr[]]
  * https://www.hodinkee.com/articles/introducing-nomos-metro-in-house-swing-system-escapement[Mechanical Wristwatches]
- * https://en.wikipedia.org/wiki/Coffee_production_in_Ethiopia#Sidamo[Yirgachefe] coffee
+ * https://en.wikipedia.org/wiki/Coffee_production_in_Ethiopia#Sidamo[Yirgacheffe] coffee
  * https://en.wikipedia.org/wiki/Go_(game)[Go]
  * Minor Hockey Coach - Dundas Minor Hockey Association
 

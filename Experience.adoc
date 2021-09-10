@@ -1,8 +1,30 @@
 
 icon:industry[] *_Professional Experience_*
 
+*VMware Tanzu Labs / Pivotal Software Inc. (Acquired by VMware)*
+_March 2018 - Present; Toronto, Ontario_
+
+_Staff Solutions Architect, Tanzu Labs Platform [Oct 2020 - Present]_
+
+Staff Solutions Architect responsible for remote engagements for Tanzu Customers. Responsible for pairing with customers with Tanzu Application Service (formerly PCF) and Tanzu Kubernetes Grid. Site Reliability Engineering, Platform-as-a-Product, User-Centric Design and Chaos Engineering all remained as core tenets for effectively leaving customers with a stable, scalable, observable and marketable platform. 
+
+_Senior Solutions Architect, Pivtal Cloud Foundry Solutions [March 2018 - Oct 2020]_
+
+Senior Solutions Architect on the PCFS team. Worked on engagements with many Fortune-500 companies. Responsible for transforming enterprises via agile processes to introduce practices to deploy, maintain and measure Pivotal Cloud Foundry by: educating the customer on treating their Platform as a Product, and putting reliability first by way of implementing solid Engineering practices via Site (Platform) Reliability Engineering. Led by example: ceremonies practiced with the customers fostered change at the grass-root level (standups, iteration planning meetings, value stream mapping, 2x2s, demos, retros, branding exercises, etc) and served as an archetype for change in these companies. Pair programming was the norm, test-driven development and user centric design helped guide our customers' products to serve as deployment targets for hundreds/thousands of developers.
+
+Regular practices included terraform centric management of the infrastructure (as code) for vSphere, AWS, Azure and GCP. Tests were regularily used to validate configuration and environmental sanity. Concourse was used to act as the continuous GitOps CI/CD and drove product install/feature upgrades/security patches. Site reliability engineering practices were instilled in customer teams to help identify Service Level Indicators for the platform and establish Service Level Objectives for the platform and its dependent systems. Chaos engineering principles and practices were conducted at regular cadences to help further increase reliability numbers.
+
+._Achievements_
+* Built an SRE team at RBC that built SLO dashboards for the platform itself; fostered a culture of proactive monitoring
+* Cloud Foundry deployments practiced on a regular (8-13 week) cadence with customers, gained industry leading expertise on building Platforms-as-a-Service
+* Kubernetes deployments were a regular occurance with 
+* Stress testing the Platform was a common demand from customers; answering the question of how much traffic can prod handle before pointing prod traffic at it; k6.io and influxdb was a proven stack
+* Spearheaded Game day exercises as a regular occurance on numerous teams; bringing down an environment on purpose to upskill proved to be an invaluable exercise
+* Key member of platform team assigned to the NHSx's Covid app; built to handle massive traffic patterns of 70k AMQP messages per second
+
+
 *Exchange Solutions Inc.*
-_June 2014 - Present; Toronto, Ontario_
+_June 2014 - March 2018; Toronto, Ontario_
 
 _Software Architect_
 

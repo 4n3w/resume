@@ -5,3 +5,4 @@ gem 'asciidoctor-pdf'
 gem 'coderay' 
 gem 'pygments.rb'
 gem 'prawn-icon'
+gem "addressable", ">= 2.8.0"

@@ -1,5 +1,7 @@
 
 .icon:certificate[] *_Training_*
+ * Certified Kubernetes Administrator - CNCF, 2021
+ * Certified Kubernetes Application Developer - CNCF, 2019
  * Elastic Search Training - Toronto, ON - 2015
  * Puppet Labs Puppet Training - Toronto, ON - 2012
  * ExitCertified - Spring Core Training - Montreal, QC - 2010

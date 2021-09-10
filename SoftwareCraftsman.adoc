@@ -4,6 +4,6 @@ https://github.com/4n3w/resume[Github: icon:github[]] mailto:andrew.d.wood@gmail
 
 .icon:wrench[] *_Software Craftsman_* 
 
-Mission-focused and quality-driven professional with extensive experience in software development, testing and architecture, with demonstrative consistency of delivery within timelines and surpassing business objectives. Seeking a primary role in a forward-thinking and growing software development organization with a creative culture. 
+Focused and test-driven professional with extensive experience in software development, testing and solutions architecture, with demonstrative consistency of delivery within timelines and surpassing business objectives. Seeking a primary role in a forward-thinking and growing software development organization with a creative culture. 
 
 
