@@ -1,6 +1,6 @@
 = Andrew Wood
 andrew.d.wood@gmail.com, https://github.com/4n3w/resume
-v1.9, 2021-02-21: Resume Updated for September 2021
+v1.9, 2021-10-21: Resume Updated for October 2021
 :title: Andrew Wood's CV
 :doctype: article
 :icons: font
