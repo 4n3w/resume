@@ -4,7 +4,15 @@ icon:industry[] *_Professional Experience_*
 *VMware Tanzu Labs / Pivotal Software Inc. (Acquired by VMware)*
 _March 2018 - Present; Toronto, Ontario_
 
-_Staff Solutions Architect, Tanzu Labs Platform [Oct 2020 - Present]_
+_Staff Field Engineer, Tanzu Global Tech Team [Jan 2022 - Present]_
+
+Responsibilities akin to a Customer Success Engineering role with a focus on building sharp tools to help customers with difficult problems, with a secondary directive to "shift left" the tooling for R&D to either be refined in-house or open-sourced. 
+
+._Achievements_
+* Built an opinionated SRE dashboard for Tanzu Kubernetes for Operators that included a set of golang SLI probes to periodically create/delete and measure latency of k8s cluster and deployment creation as well as cluster and application availability. Metrics emitted to Wavefront and Grafana via Prometheus.
+* Working with customers to determine their migration strategies for BOSH based deployments resulted in co-authoring tooling for live-migrating their virtual machines across disparate vcenter instances, which was instrumental in defining a strategic engagement type for customers with a desire to move their workloads to new hardware.
+
+_Staff Solutions Architect, Tanzu Labs Platform [Oct 2020 - Jan 2022]_
 
 Staff Solutions Architect responsible for remote engagements for Tanzu Customers. Responsible for pairing with customers with Tanzu Application Service (formerly PCF) and Tanzu Kubernetes Grid. Site Reliability Engineering, Platform-as-a-Product, User-Centric Design and Chaos Engineering all remained as core tenets for effectively leaving customers with a stable, scalable, observable and marketable platform. 
 
@@ -28,7 +36,7 @@ _June 2014 - March 2018; Toronto, Ontario_
 
 _Software Architect_
 
-Software Architect, reporting directly to Director of Development, Chief Architect and CTO. Manager of four Developers and one Architect. Responsible for defining coding standards, research and development and was instrumental in initiating a Continuous Delivery effort across the technology team.
+Software Architect, reporting directly to Director of Development, Chief Architect and CTO. Manager of four Developers and one Software Architect. Responsible for defining coding standards, research and development and was instrumental in initiating a Continuous Delivery effort across the technology team.
 
 ._Achievements_
 * Primary driver for moving to Kubernetes for build pipelines and production deployment/scalability resiliency. 

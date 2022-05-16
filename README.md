@@ -1,14 +1,8 @@
 # Andrew's Resume
 
-Installing this should be pretty simple. Requirements:
+Building this requires on `asciidoctor-pdf`, which you can install on MacOS with 
 
-1. Ruby
-2. Bundle
-3. Bash
-
-I'd recommend using [rbenv](https://github.com/rbenv/rbenv) and [ruby-build](https://github.com/rbenv/ruby-build#readme) and once that is done, run:
-
-    gem install bundle; bundle
+    brew install asciidoctor
 
 You should be able to then execute
 

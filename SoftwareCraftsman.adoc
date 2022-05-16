@@ -1,4 +1,3 @@
-== Andrew Wood
 
 https://github.com/4n3w/resume[Github: icon:github[]] mailto:andrew.d.wood@gmail.com[Email: icon:envelope[]] http://stackoverflow.com/users/955526/anew[Stack Overflow: icon:stack-overflow[]] https://www.linkedin.com/in/andrew-wood-7a2ab211[LinkedIn: icon:linkedin[]]
 
